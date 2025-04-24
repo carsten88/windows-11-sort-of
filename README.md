@@ -14,7 +14,7 @@ Most easily installed via Cinnamon's Themes module in Cinnamon settings.
 
 Or download the latest release from https://github.com/carsten88/windows-11-sort-of
 unzip it
-paste folder 'windows-11-sort-of' in root/.themes (thats a hidden file)
+paste folder 'windows-11-sort-of' in root/.themes (thats a hidden folder)
 To apply the theme go to themes > applications and select 'windows-11-sort-of'.
 
 ## fork of
