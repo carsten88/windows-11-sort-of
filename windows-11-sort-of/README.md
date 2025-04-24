@@ -1,4 +1,4 @@
-## windows-11-sort-of
+## Windows-11-sort-of
 
 version: 1
 2025-04-24
@@ -17,7 +17,7 @@ unzip it
 paste folder 'windows-11-sort-of' in root/.themes (thats a hidden file)
 To apply the theme go to themes > applications and select 'windows-11-sort-of'.
 
-## fork of
+## Fork of
 
 Theme is based on Orchid-Light. All credit goes to the original author(s).
 
