@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=windows-11-sort-of
+Comment=Rounded corners and with windows 10 buttons for min-max-close-window.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=windows-11-sort-of
+MetacityTheme=windows-11-sort-of
+IconTheme=Tela-circle
+ButtonLayout=menu:minimize,maximize,close
