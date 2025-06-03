@@ -1,7 +1,7 @@
-## Windows-11-sort-of
+## windows-11-sort-of
 
-version: 2
-2025-05-17
+version: 3
+2025-06-03
 By carsten88
 
 Rounded corners and with windows 10 buttons for min-max-close-window.
@@ -14,10 +14,10 @@ Most easily installed via Cinnamon's Themes module in Cinnamon settings.
 
 Or download the latest release from https://github.com/carsten88/windows-11-sort-of
 unzip it
-paste folder 'windows-11-sort-of' in root/.themes (thats a hidden file)
+paste folder 'windows-11-sort-of' in root/.themes (thats a hidden folder)
 To apply the theme go to themes > applications and select 'windows-11-sort-of'.
 
-## Fork of
+## fork of
 
 Theme is based on Orchid-Light. All credit goes to the original author(s).
 
